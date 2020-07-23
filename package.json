@@ -1,8 +1,8 @@
 {
-  "name": "backend",
+  "name": "api",
   "private": true,
   "version": "0.1.0",
-  "description": "A Strapi application",
+  "description": "LandPage",
   "scripts": {
     "develop": "strapi develop",
     "start": "strapi start",
@@ -24,7 +24,7 @@
     "pg": "latest"
   },
   "author": {
-    "name": "A Strapi developer"
+    "name": "Michael Douglas"
   },
   "strapi": {
     "uuid": "0ca3a717-f6fa-4fb8-8e3e-2e05bc356e6e"
