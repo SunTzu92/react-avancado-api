@@ -1,8 +1,8 @@
 {
   "kind": "singleType",
-  "collectionName": "land_pages",
+  "collectionName": "landing_pages",
   "info": {
-    "name": "landPage"
+    "name": "landingPage"
   },
   "options": {
     "increments": true,
