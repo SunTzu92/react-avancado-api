@@ -55,6 +55,21 @@
       "repeatable": false,
       "component": "page.price-box",
       "required": true
+    },
+    "sectionAboutUs": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.section-about-us"
+    },
+    "sectionReviews": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.section-reviews"
+    },
+    "sectionFaq": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.section-faq"
     }
   }
 }
