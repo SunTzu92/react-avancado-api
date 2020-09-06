@@ -9,7 +9,7 @@
     "title": {
       "type": "enumeration",
       "enum": [
-        "GitHub",
+        "Github",
         "Twitter",
         "Dribbble",
         "LinkedIn",
