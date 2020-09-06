@@ -8,7 +8,7 @@
     "start": "strapi start",
     "build": "strapi build",
     "strapi": "strapi",
-    "commit": "git push -u origin master && git push heroku master"
+    "deploy": "git push heroku master"
   },
   "devDependencies": {},
   "dependencies": {
